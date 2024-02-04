@@ -1,0 +1,1 @@
+"%~dp0TrackVisu.exe" --logFile "%~dp0local_log.log"

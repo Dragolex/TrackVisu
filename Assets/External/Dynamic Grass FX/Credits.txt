@@ -1,0 +1,4 @@
+Grass Shader from the following freely available asset:
+https://assetstore.unity.com/packages/vfx/shaders/directx-11/dynamic-grass-fx-144740
+Licence: Standard Unity Asset Store Licence
+Attribution goes to: LeastSquares LLC
